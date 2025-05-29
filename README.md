@@ -1,5 +1,17 @@
-# 💫 About Me:
-👋 About Me<br>🛠️ I’m currently working on:<br>EcoVision – an AI-based recycling object detection system using YOLOv8 and Ryzen AI, and BookHive – a full-stack book review platform developed in Dockerized containers. I’m also fine-tuning GPT-2 on Shakespearean text and experimenting with sentiment analysis using BERT/DistilBERT.<br><br>🤝 I’m looking to collaborate on:<br>Machine learning applications in NLP, AI-integrated educational tools like PulsePlan (AI-powered academic scheduler), and fintech projects combining quantitative modeling and explainability.<br><br>🧠 I’m looking for help with:<br>Integrating custom-trained NLP models into production-ready apps, optimizing models for edge hardware (e.g., Ryzen AI, Coral), and advanced topics in time-series forecasting for finance.<br><br>🌱 I’m currently learning:<br>Quantitative Finance (certification-focused), advanced Deep Learning with Hugging Face Transformers, and low-level system programming via "Computer Systems: A Programmer's Perspective".<br><br>💬 Ask me about:<br>Building AI projects from scratch, balancing full-time engineering coursework with applied research, and strategies for becoming a well-rounded AI engineer with real-world deployment skills.<br><br>⚡ Fun fact:<br>I’m a bilingual (English/Spanish) first-gen engineer who blends my love for reggaetón, summer beach vibes, and software engineering into a unique coding rhythm 🌊💻🔥
+🛠️ I’m currently working on:<br>
+PulsePlan – an AI-powered academic scheduler that syncs with Canvas and calendar services to generate personalized plans using GPT-4o. I’m building it with React Native, Node.js, Supabase, and Stripe. I’m also conducting NLP research in the University of Colorado Boulder, where I fine-tune transformer models like GPT-2 and DistilBERT for sentiment analysis and attention visualization.<br><br>
+
+🤝 I’m looking to collaborate on:<br>
+Machine learning applications in NLP, AI-integrated educational tools like PulsePlan (AI-powered academic scheduler), and fintech projects combining quantitative modeling and explainability.<br><br>
+
+🌱 I’m currently learning:<br>
+Quantitative Finance (certification-focused) and advanced Deep Learning with Hugging Face Transformers.<br><br>
+
+💬 Ask me about:<br>
+Building AI projects from scratch, balancing full-time engineering coursework with applied research, and strategies for becoming a well-rounded AI engineer with real-world deployment skills.<br><br>
+
+⚡ Fun fact:<br>
+I’m a bilingual (English/Spanish) 🌊💻🔥
 
 
 ## 🌐 Socials:
