@@ -1,16 +1,16 @@
-🛠️ I’m currently working on:<br>
+## 🛠️ I’m currently working on:<br>
 PulsePlan – an AI-powered academic scheduler that syncs with Canvas and calendar services to generate personalized plans using GPT-4o. I’m building it with React Native, Node.js, Supabase, and Stripe. I’m also conducting NLP research in the University of Colorado Boulder, where I fine-tune transformer models like GPT-2 and DistilBERT for sentiment analysis and attention visualization.<br><br>
 
-🤝 I’m looking to collaborate on:<br>
+## 🤝 I’m looking to collaborate on:<br>
 Machine learning applications in NLP, AI-integrated educational tools like PulsePlan (AI-powered academic scheduler), and fintech projects combining quantitative modeling and explainability.<br><br>
 
-🌱 I’m currently learning:<br>
+##🌱 I’m currently learning:<br>
 Quantitative Finance (certification-focused) and advanced Deep Learning with Hugging Face Transformers.<br><br>
 
-💬 Ask me about:<br>
+## 💬 Ask me about:<br>
 Building AI projects from scratch, balancing full-time engineering coursework with applied research, and strategies for becoming a well-rounded AI engineer with real-world deployment skills.<br><br>
 
-⚡ Fun fact:<br>
+##⚡ Fun fact:<br>
 I’m a bilingual (English/Spanish) 🌊💻🔥
 
 
