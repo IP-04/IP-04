@@ -4,7 +4,7 @@ PulsePlan – an AI-powered academic scheduler that syncs with Canvas and calend
 ## 🤝 I’m looking to collaborate on:<br>
 Machine learning applications in NLP, AI-integrated educational tools like PulsePlan (AI-powered academic scheduler), and fintech projects combining quantitative modeling and explainability.<br><br>
 
-##🌱 I’m currently learning:<br>
+## 🌱 I’m currently learning:<br>
 Quantitative Finance (certification-focused) and advanced Deep Learning with Hugging Face Transformers.<br><br>
 
 ## 💬 Ask me about:<br>
