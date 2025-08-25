@@ -1,3 +1,5 @@
+## Hi! I'm Isaias!
+
 ## 🛠️ I’m currently working on:<br>
 PulsePlan – an AI-powered academic scheduler that syncs with Canvas and calendar services to generate personalized plans using GPT-4o. I’m building it with React Native, Node.js, Supabase, and Stripe. I’m also conducting NLP research in the University of Colorado Boulder, where I fine-tune transformer models like GPT-2 and DistilBERT for sentiment analysis and attention visualization.<br><br>
 
