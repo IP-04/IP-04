@@ -1,19 +1,43 @@
-## Hi! I'm Isaias!
+# Hi! I'm Isaias!
+Machine Learning Engineer | Software Engineer | Quant Developer
 
 ## 🛠️ I’m currently working on:<br>
-PulsePlan – an AI-powered academic scheduler that syncs with Canvas and calendar services to generate personalized plans using GPT-4o. I’m building it with React Native, Node.js, Supabase, and Stripe. I’m also conducting NLP research in the University of Colorado Boulder, where I fine-tune transformer models like GPT-2 and DistilBERT for sentiment analysis and attention visualization.<br><br>
+
+At **Kroenke Sports & Entertainment (KSE)**, I work on implementing AI across different areas of the company, with a strong focus on **security and infrastructure**. My projects range from speeding up inference pipelines to building copilots that automate compliance and monitoring, all aimed at making enterprise systems smarter and safer.
+
+In the past, I’ve also:
+
+* Helped launch **Upwordly** at Polylabs, an AI-powered LinkedIn generator that automates content creation at scale.
+* Contributed to research at **CU Boulder**, where I studied transformers, saliency methods, and attention visualization to make models more interpretable.
+
+And on the side, I’ve been developing **PulsePlan**, an AI-powered academic scheduler that syncs with Canvas and calendars to generate personalized plans.
+
+<br>  
 
 ## 🤝 I’m looking to collaborate on:<br>
-Machine learning applications in NLP, AI-integrated educational tools like PulsePlan (AI-powered academic scheduler), and fintech projects combining quantitative modeling and explainability.<br><br>
+
+AI-first products at the intersection of **NLP, education, and workflow automation**, and creative fintech projects where explainability matters.
+
+<br>  
 
 ## 🌱 I’m currently learning:<br>
-Quantitative Finance (certification-focused) and advanced Deep Learning with Hugging Face Transformers.<br><br>
+
+How to scale AI systems with cloud + MLOps, and diving deeper into quantitative finance and advanced deep learning.
+
+<br>  
 
 ## 💬 Ask me about:<br>
-Building AI projects from scratch, balancing full-time engineering coursework with applied research, and strategies for becoming a well-rounded AI engineer with real-world deployment skills.<br><br>
 
-##⚡ Fun fact:<br>
-I’m a bilingual (English/Spanish) 🌊💻🔥
+* Building AI projects from the ground up
+* Deploying models in production (cloud + edge)
+* Turning research ideas into usable products
+
+<br>  
+
+## ⚡ Fun fact:<br>
+
+I’m bilingual (English/Spanish) 🌊💻🔥 and love building things that bridge tech, learning, and entrepreneurship.
+
 
 
 ## 🌐 Socials:
