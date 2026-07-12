@@ -8,23 +8,15 @@ I'm a Computer Science student at the **University of Colorado Boulder**, with m
 
 ### Software Engineering Intern @ Apple
 
-I currently work with the **Apple TV / Services Engineering** organization, exploring complex production architecture across native and TypeScript-adjacent systems.
+I currently work with the **Apple TV / Services Engineering** organization, contributing to large-scale production software and exploring how AI-assisted engineering can make complex systems easier to understand, modify, and maintain.
 
-My work focuses on:
-
-- Building dependency-tracing and code-intelligence workflows across large production codebases
-- Identifying ownership, lifecycle, and failure boundaries before high-risk refactors
-- Combining AI-assisted development with manual validation, testing, and engineering judgment
+My work involves software architecture, developer tooling, testing, and reliability across a large multi-platform codebase.
 
 ### Co-Founder & Lead Engineer @ CulinaryOS
 
-I'm building an operational intelligence platform that helps restaurant teams understand live conditions and make better service decisions.
+I'm building an **operational intelligence platform for restaurants** that transforms fragmented operational data into real-time insights and better service decisions.
 
-- Architected a fault-tolerant backend supporting **4 pilot restaurants, 16 integrations, and 40+ asynchronous jobs**
-- Built forecasting models using reservation, walk-in, labor, sales, and manager-decision data
-- Improved held-out forecast error from a **37.0% baseline to 14.3% MAPE**
-- Developed live operational states, decision capture, historical retrieval, and learning-loop infrastructure
-- Added distributed locks, heartbeats, idempotent writes, health watchdogs, and failure recovery for production workers
+My work spans backend infrastructure, forecasting, data integrations, production reliability, and AI-driven decision support. As a co-founder, I also help guide the product’s technical direction and translate feedback from restaurant operators into dependable software.
 
 ## 🚀 Previous work
 
