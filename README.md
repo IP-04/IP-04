@@ -107,10 +107,4 @@ I'm originally from **Caracas, Venezuela**, and I'm bilingual in English and Spa
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-## 📊 GitHub Activity
-
-![Isaias's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IP-04&theme=github_dark&hide_border=true&show_icons=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=IP-04&theme=github_dark&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IP-04&theme=github_dark&hide_border=true&layout=compact)
